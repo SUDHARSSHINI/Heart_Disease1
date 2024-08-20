@@ -1,6 +1,8 @@
+
 pandas==1.5.3
 numpy==1.25.2
-scikit-learn==1.4.0
-streamlit==1.21.0
-responsibleai==0.10.0
-aif360==0.6.0
+scikit-learn==1.2.2
+responsibleai==0.8.0
+aif360==0.5.0
+streamlit==1.23.0
+

@@ -1,7 +1,7 @@
 numpy==1.26.2
 pandas==2.2.2
 scikit-learn==1.5.1
-responsibleai==0.36.0
+responsibleai==0.34.0  # or another version compatible with pandas 2.x
 aif360==0.6.1
 streamlit==1.37.1
 numba<=0.56.0

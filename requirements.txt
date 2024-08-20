@@ -2,5 +2,5 @@ pandas==1.5.3
 numpy==1.25.2
 scikit-learn==1.4.0
 streamlit==1.21.0
-responsibleai==0.9.0  # Replace with the latest compatible version if needed
-aif360==0.5.0  # Replace with the latest compatible version if needed
+responsibleai==0.10.0
+aif360==0.6.0

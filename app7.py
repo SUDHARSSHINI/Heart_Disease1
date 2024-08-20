@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 import streamlit as st
 
 # Load the synthetic dataset
-csv_file_path = '/content/heart_disease_prediction.csv'
+csv_file_path = 'heart_disease_prediction.csv'
 data = pd.read_csv(csv_file_path)
 
 # Prepare the dataset
